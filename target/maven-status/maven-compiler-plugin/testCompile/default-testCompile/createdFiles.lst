@@ -1,0 +1,4 @@
+org\company\CsvParserTest.class
+org\company\FileServiceTest.class
+org\company\TripManagerTest.class
+org\company\MainTest.class

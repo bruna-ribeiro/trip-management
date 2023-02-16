@@ -1,0 +1,10 @@
+org\company\ParserService.class
+org\company\Trip.class
+org\company\Tap.class
+org\company\DataSourceService.class
+org\company\TripManager.class
+org\company\CsvParser.class
+org\company\DataSourceFactory.class
+org\company\ParserFactory.class
+org\company\FileService.class
+org\company\Main.class
